@@ -2,7 +2,7 @@
 
 <div align="justify"> A website where admin can add, update, and delete the buyers, sellers, and painting details, can remove bad feedbacks. Buyer can view profile, painting, purchase history, buy, and leave feedback. Seller can view and update their profile, add, update and delete painting details and view feedback from buyers. <div>
 
-# Languages Used
+# Tech Stack Used
 
 <ul>
   <li>HTML</li>
